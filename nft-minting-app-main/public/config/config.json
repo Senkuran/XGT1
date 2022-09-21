@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2DC1d930cc6Ec5C7029ADFDBF2c731Ba259C6091",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2dc1d930cc6ec5c7029adfdbf2c731ba259c6091",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "XGamingTournaments",
+  "SYMBOL": "XGT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/xgamingtournaments",
+  "SHOW_BACKGROUND": true
+}
